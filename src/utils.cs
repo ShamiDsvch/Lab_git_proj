@@ -1,7 +1,7 @@
 public class Utils
 {
-    public int add_numbers (int n, int m)
+    public int multiply_numbers (int x, int y)
     {
-        return n + m;
+        return x * y;
     }
 }
