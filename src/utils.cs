@@ -8,4 +8,8 @@ public class Utils
   {
       return x + y;
   }
+  public int subtract_numbers (int x, int y)
+  {
+      return x - y;
+  }
 }
